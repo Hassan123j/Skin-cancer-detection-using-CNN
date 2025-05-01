@@ -1,1 +1,1 @@
-# Skin-cancer-detection-using-CNN
+# Skin-Cancer-Detection-with-CNN-Deep-Learning
