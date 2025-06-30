@@ -136,5 +136,3 @@ This project is open-source under the [MIT License](LICENSE).
 ## About Me
 
 I'm a student currently learning machine learning and deep learning. This project is part of my learning journey and portfolio. Feedback is welcome.
-
----
